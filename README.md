@@ -14,17 +14,7 @@
 🚀 Let's connect and build amazing things together!
 
 ---
-
 🛠️ Languages and Tools:
 
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) 
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) 
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-- ![Git](https://img.icons8.com/color/48/000000/git.png) 
-- ![Express](https://img.icons8.com/color/48/000000/express.png) 
-- ![Postgres](https://img.icons8.com/color/48/000000/postgresql.png) 
-- ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+ ![React](https://img.icons8.com/color/48/000000/react-native.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Express](https://img.icons8.com/color/48/000000/express.png) ![Postgres](https://img.icons8.com/color/48/000000/database-2.png) ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) ![Ionic](https://img.icons8.com/color/48/000000/ionic.png) ![Capacitor](https://img.icons8.com/color/48/000000/capacitor.png) ![Trello](https://img.icons8.com/color/48/000000/trello.png) ![Excalidraw](https://img.icons8.com/color/48/000000/excalidraw.png)
 
