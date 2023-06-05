@@ -11,8 +11,8 @@
 
 👨‍💻 Just registered as an AWS practitioner and eager to pursue my first certification!
 
-🚀 Let's connect and build amazing things together! <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=xtej4ik&label=Profile%20views&color=0e75b6&style=flat" alt="xtej4ik" />
+🚀 Let's connect and build amazing things together! 
+<div align="center"><img src="https://komarev.com/ghpvc/?username=xtej4ik&label=Profile%20views&color=0e75b6&style=flat" alt="xtej4ik" />
 
 ---
 🛠️ Languages and Tools:
