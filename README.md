@@ -3,7 +3,7 @@
 
 ---
 
-👋 Hello, I'm Inna! [![Linkedin Badge](https://img.shields.io/badge/-inna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inna-chtej/)
+👋 Hello, I'm Inna! [![Linkedin Badge](https://img.shields.io/badge/-na-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inna-chtej/)
 
 🌱 I'm a passionate technophile who loves exploring new technologies and solving interesting challenges. 
 
