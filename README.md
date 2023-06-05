@@ -1,4 +1,4 @@
-
+<div align="center"><img src="https://komarev.com/ghpvc/?username=xtej4ik&label=Profile%20views&color=0e75b6&style=flat" alt="xtej4ik" />
 ![Creative-robot](https://github.com/xtej4ik/xtej4ik/assets/90528542/f5dce81c-5e33-43b8-8a11-9546bf49e24c)
 
 ---
@@ -12,7 +12,6 @@
 👨‍💻 Just registered as an AWS practitioner and eager to pursue my first certification!
 
 🚀 Let's connect and build amazing things together! 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=xtej4ik&label=Profile%20views&color=0e75b6&style=flat" alt="xtej4ik" />
 
 ---
 🛠️ Languages and Tools:
